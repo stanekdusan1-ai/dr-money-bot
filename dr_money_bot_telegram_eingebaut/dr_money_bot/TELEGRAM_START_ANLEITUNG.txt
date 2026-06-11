@@ -1,0 +1,9 @@
+DR Money Bot starten (Windows)
+
+1. ZIP entpacken.
+2. Ordner dr_money_bot öffnen.
+3. Datei START_TELEGRAM_BOT_WINDOWS.bat doppelklicken.
+4. Telegram öffnen und deinem Bot schreiben: /start
+5. Test: /suche hotels österreich
+
+Hinweis: Dieses Paket enthält API-Schlüssel in der .env. Nicht weitergeben.
